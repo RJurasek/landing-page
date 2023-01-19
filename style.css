@@ -57,8 +57,14 @@ footer {
 }
 
 #sign-up {
-    width: 80px;
+    width: 100px;
     height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: 0;
+    border-radius: 5px;
 }
 
 h1 {
@@ -75,6 +81,5 @@ h1 {
 
 .wave {
     width: 500px;
-    border: 2px;
-    border-color: white;
+    border-radius: 20px;
 }
