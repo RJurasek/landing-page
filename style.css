@@ -83,3 +83,38 @@ h1 {
     width: 500px;
     border-radius: 20px;
 }
+
+.content-two {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+img.geo {
+    width: 175px;
+    height: 175px;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 190, 253);
+}
+
+.img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.text {
+    text-align: center;
+}
