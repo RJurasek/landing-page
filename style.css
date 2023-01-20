@@ -32,7 +32,7 @@ footer {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
-    margin: 0;
+    margin: 0 40px;
 }
 
 .link-container {
@@ -40,6 +40,7 @@ footer {
     gap: 8px;
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0 40px;
 }
 
 .content-one {
@@ -105,7 +106,7 @@ img.geo {
     width: 175px;
     height: 175px;
     border-radius: 10px;
-    border: 5px solid rgb(0, 190, 253);
+    border: 3px solid #3882F6;
 }
 
 .img {
@@ -118,6 +119,7 @@ img.geo {
 
 .text {
     text-align: center;
+    font-size: 18px;
 }
 
 .content-three {
