@@ -118,3 +118,34 @@ img.geo {
 .text {
     text-align: center;
 }
+
+.content-three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.three-container {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    margin: 50px 0;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 0;
+}
+
+#thor {
+    display: flex;
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 5px;
+    padding-right: 40px;
+}
