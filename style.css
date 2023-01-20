@@ -87,6 +87,7 @@ h1 {
 .content-two {
     display: flex;
     flex-direction: column;
+    height: 410px;
 }
 
 h2 {
@@ -124,6 +125,7 @@ img.geo {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 410px;
     background-color: #E5E7EB;
 }
 
@@ -148,4 +150,53 @@ img.geo {
     font-size: 20px;
     margin: 5px;
     padding-right: 40px;
+}
+
+.content-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+}
+
+.action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    width: 800px;
+    height: 150px;
+}
+
+.cta {
+    color: #F9FAF8;
+    margin: 0 60px;
+}
+
+.cta-head,
+#cta-body {
+    margin: 10px 0;
+}
+
+.cta-head {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#cta-body {
+    font-size: 18px;
+}
+
+#sign-up-two {
+    margin: 0 60px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    font-size: 14px;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
 }
